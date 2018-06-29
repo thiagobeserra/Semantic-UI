@@ -33,7 +33,7 @@ Visit our [contributing guide](https://github.com/Semantic-Org/Semantic-UI/blob/
 
 #### Recommended Install
 ```bash
-npm install semantic-ui  # Use themes, import build/watch tasks into your own gulpfile.
+npm install semantic-ui-css-magalu  # Use themes, import build/watch tasks into your own gulpfile.
 ```
 
 Semantic UI includes an interactive installer to help setup your project.
